@@ -3,7 +3,7 @@
 // fs module
 
 const fs = require('fs');
-// for write path
+// path for write 
 const path = require('path');
 
 
